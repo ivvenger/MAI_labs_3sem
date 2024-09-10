@@ -1,4 +1,4 @@
-cmake_minimun_required(VERSION 3.30.3 FATAL_ERROR)
+cmake_minimun_required(VERSION 3.30.3)
 
 project(lab_click)
 
