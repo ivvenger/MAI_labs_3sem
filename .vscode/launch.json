@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/boopie/Desktop/МАИ/2_курс/OOP",
+      "program": "/Users/boopie/Desktop/МАИ/2_курс/OOP/build/Debug/outDebug"
+    }
+  ]
+}
