@@ -1,4 +1,4 @@
-cmake_minimun_required(VERSION 3.30.3)
+cmake_minimun_required(VERSION 3.30)
 
 project(lab_click)
 
