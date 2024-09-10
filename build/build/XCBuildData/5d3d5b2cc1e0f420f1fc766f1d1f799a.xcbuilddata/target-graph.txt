@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Target 'ALL_BUILD' in project 'lab_click'
+➜ Explicit dependency on target 'lab_click' in project 'lab_click'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'lab_click'
+Target 'lab_click' in project 'lab_click'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'lab_click'
+Target 'ZERO_CHECK' in project 'lab_click' (no dependencies)

@@ -1,2 +1,5 @@
 errors.txt
 logs
+build
+CMakeFiles
+CMakeScripts

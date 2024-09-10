@@ -1,0 +1,3 @@
+/Users/boopie/Desktop/МАИ/2_курс/OOP/CMakeFiles/lab_click.dir
+/Users/boopie/Desktop/МАИ/2_курс/OOP/CMakeFiles/ALL_BUILD.dir
+/Users/boopie/Desktop/МАИ/2_курс/OOP/CMakeFiles/ZERO_CHECK.dir
